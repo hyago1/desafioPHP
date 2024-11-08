@@ -2,14 +2,18 @@
 
 
  ## Tela inicial:
-![image](https://github.com/user-attachments/assets/91e8afd3-939f-4e07-99c5-70777fa75a7d)
+![image](https://github.com/user-attachments/assets/3a85f04e-4ea2-4c7d-8ed4-b3e1e9343562)
+
+
 
  ## Função Editar
   #### Editar um valor de anuidade de forma simples.
-  ![image](https://github.com/user-attachments/assets/002ea3f4-6c54-409d-89ed-f231023e8b90)
+![image](https://github.com/user-attachments/assets/01518c23-0c75-463d-9746-6297dce82d30)
+
  ## Buscar associados e seus pagamentos
   #### Escolha uma das opções e clique em buscar para exibir os Checkouts/Pagamentos.
-![image](https://github.com/user-attachments/assets/13b516f6-5cc4-4559-8b53-1e0d2ea4bb34)
+![image](https://github.com/user-attachments/assets/18250ffc-be27-4bad-9f72-acebb77fbb7e)
+
 
 - Linguagens Utilizadas:
   - HTML
