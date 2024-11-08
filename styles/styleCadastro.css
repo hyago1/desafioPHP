@@ -1,6 +1,6 @@
 
 	body {
-		background-color:#fbfbfb;
+		background-color:#c4cccd;
 		display: flex;
 		justify-content: center;
 		margin: 0px;
@@ -30,7 +30,7 @@
 		border: none; 
 		border-radius: 5px;
 		font-weight: 700;
-		background-color: #292929;
+		background-color: #479ec9;
 		cursor: pointer;
 		color: white;
 		padding-inline: 15px;
@@ -42,7 +42,7 @@
 	hr{
 		width: 0px;
 		margin: 8em;
-		height: 50%;
+		height: 30%;
 		border: 1px rgb(146, 146, 146) solid;
 	}
 	#cadastrar{
@@ -59,7 +59,7 @@
 	}
 
 	input {
-		color: aliceblue;
+		color: rgb(32, 32, 32);
 		border: none;
 		background-color: transparent;
 		border-bottom: 1px solid gray;

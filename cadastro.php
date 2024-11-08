@@ -11,6 +11,8 @@
 <body>
 	<a href="/desafiophp/index.php"><button type="submit" class="cadastrar" id="cadastrar" name="enviarAnu">Voltar</button>
 </a>
+
+
 	<form method="POST" action="/desafiophp/cadastro.php">
 		<Span>Cadastro de associado</Span>
 		<label>Nome</label>
