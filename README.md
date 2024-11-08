@@ -3,6 +3,9 @@
 
  ## Tela inicial:
 ![image](https://github.com/user-attachments/assets/3a85f04e-4ea2-4c7d-8ed4-b3e1e9343562)
+ 
+ ## Tela de Cadastro:
+![image](https://github.com/user-attachments/assets/35ae1b22-8e2f-4bd5-a593-789c5a6a5593)
 
 
 
