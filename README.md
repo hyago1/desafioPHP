@@ -49,7 +49,7 @@
 
 
 > [!IMPORTANT]
-> Caso queira testar a busca pelos checkouts em dia, modifique no banco algum resgitro na coluna pago para true. 
+> Caso queira testar a busca pelos checkouts em dia, modifique na tabela pagamento do banco de dados, algum resgitro na coluna pago para true. 
 
 
 * Agora pode usar e testar a vontade!
