@@ -1,0 +1,137 @@
+body {
+    background-color: #f0f0f0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0px;
+    margin: 0px;
+
+height: 100vh;
+}
+
+tbody,
+th,
+tr {
+
+    padding: 2px;
+}
+
+th {
+    
+    font-size: small;
+    color: whitesmoke;
+    background-color: #5ba4f8;
+}
+
+tr {
+
+    
+
+}
+
+td {
+
+    padding: 2px;
+}
+
+table {
+    border-radius: 10px;
+    color: rgb(61, 61, 61);
+    background-color: #f1f1f1;
+    height: 80px;
+    width: 100%;
+    font-size: 12px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    box-shadow: -2px 16px 10px -15px black;
+}
+
+.tables {
+    background-color: #bec2c5;
+    width: 80%;
+    min-height: 50%;
+    height: 80%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 10px;
+    padding-inline: 20px;
+    padding: 20px;
+}
+
+#tableAnui {
+    width: auto;
+}
+
+#cadastrar {
+    
+    padding: 10px;
+    font-size: medium;
+    margin: 8px;
+    border: none; 
+    border-radius: 5px;
+    font-weight: 700;
+    background-color: #292929;
+    cursor: pointer;
+    color: white;
+    padding-inline: 15px;
+    border: 1px solid grey;
+}
+.divBtns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+.formBuscar{
+    color: #e0e0e0;
+}
+label{
+    text-align: center;
+    align-items: center;
+    color: #353535;
+}
+
+h3 {
+    text-align: left;
+    color: #bec0c4;
+}
+
+#cadastrar:hover {
+    background-color: #424242;
+}
+
+section div {
+    margin: 10px;
+
+}
+section {
+    display: flex;
+    width: 100%;
+    overflow: auto;
+    justify-content: space-between;
+  
+}
+h2{
+    padding: 5px;
+
+    margin: 5px;
+    position: absolute;
+    top: 0px;
+ 
+}
+h4{
+    margin: 10px;
+
+}
+.edit{
+    width: max-content;
+}
